@@ -23,9 +23,9 @@ To solve this problem, I basically had to change the way I created Unity enviro
 ![External](/images/create_visual_pushblock_unity_env/unity-brain-external.png)
 
 Second, Under “visual area” hierarchy there is ‘Agent’ object. Agent object has a segment of ‘Push Agent basics’. Change brain in that segment to ‘VisualPushBlockLearning’ instead of ‘VisualPushBlockPlayer’. See figure below.
-![Learning](create_visual_pushblock_unity_env/unity-visual-brain.png)
+![Learning](/images/create_visual_pushblock_unity_env/unity-visual-brain.png)
 
 Next, Click on ‘VisualPushBlockLearning’ within brains hierarchy. On the parameter section, change vector observation space size to 0 and add a visual observation of size 84x84. 
-![Space](create_visual_pushblock_unity_env/space_size.png.png)
+![Space](/images/create_visual_pushblock_unity_env/space_size.png.png)
 
 When creating executable (with env_name.86_64 extension) for linux, a separate folder is also get created named as env_name_data. You need to move this folder too where you want to execute .86_64 file.
