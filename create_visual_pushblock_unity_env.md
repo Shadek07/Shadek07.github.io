@@ -26,6 +26,6 @@ Second, Under “visual area” hierarchy there is ‘Agent’ object. Agent obj
 ![Learning](/images/create_visual_pushblock_unity_env/unity-visual-brain.png)
 
 Next, Click on ‘VisualPushBlockLearning’ within brains hierarchy. On the parameter section, change vector observation space size to 0 and add a visual observation of size 84x84. 
-![Space](/images/create_visual_pushblock_unity_env/space_size.png.png)
+![Space](/images/create_visual_pushblock_unity_env/space_size.png)
 
 When creating executable (with env_name.86_64 extension) for linux, a separate folder is also get created named as env_name_data. You need to move this folder too where you want to execute .86_64 file.
