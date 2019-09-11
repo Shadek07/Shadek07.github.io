@@ -21,5 +21,8 @@ It is basically the same as carracing MDN-RNN. Just need to change input dimensi
 
 ### Policy/ Controller training
 I first trained Visual PushBlock without two additional vector observations that I mentioned. Without those two observations, agent were not capable enough to solve the game because of sparse reward env. That’s why avg reward curve for 24 agents was almost flat (horizontal line at reward avg of little above -1.0) for 150 generations. In each generation, every agent played 5 episodes of the game. Total number of controller model parameters was 321. The two graphs for this 1st version of controller training are below:
-
+![first graph](./images/pushblock_worldmodel/pushblock_curve.png)
+![2nd graph](./images/pushblock_worldmodel/pushblock_curve_2.png)
 In 2nd version of policy training, we have two extra vector observations mentioned above. In this version I am giving some intrinsic reward to agent. If agent moves one unit closer to block, it will get 0.1 reward and if it moves away from block by 1 unit it will receive 0.01 reward. Same reward structure for the position of block too. If block is pushed 1 unit towards goal, agent will get 0.1. Training is done for 238 generations. What I have seen in this version that, agent is learning to maximize rewards by moving to and moving away from block back and forth. During the training, I have noticed that in most the unity env Agent keeps block in front of it. Average reward for 10 episodes after training is 11.75, but agent was not able to solve game in any of 10 episodes. The corresponding training curve is below. One interesting thing to note that best avg reward is higher than mean reward. This should not be the case. In carracing, best avg is in between mean and max.
+![first graph](./images/pushblock_worldmodel/training_curve_1.gif)
+![2nd graph](./images/pushblock_worldmodel/training_curve_2.gif)
