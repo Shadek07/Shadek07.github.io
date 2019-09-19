@@ -1,0 +1,7 @@
+#### Review on: “Obstacle Tower: A generalization Challenge in Vision, Control, and Planning
+
+This paper introduces a simulation environment called "Obstacle Tower" to provide a challenge in the direction of Deep Reinforcement Learning Research. The aim of this Unity3D game environment is to test a learned agent in terms of Visual scene, Control, Generalization, and Planning. Through the experimentation with state-of-the-art reinforcement learning algorithms, the authors have shown that not a single agent was able to perform close to human in this game environment.
+
+Obstacle Tower environment consists of 25 floors. Each floor contains several rooms and within each room there are several activities that an agent has to solve such as puzzle solving, defeating enemies, evading obstacles, or gathering key to open a door etc. The floor in the environment varies in terms of lighting, room layout, as well as overall floor plan. Non-identical floor generation ensures that agents learn general purpose representations for the task of vision, control, and planning. The action space consists of multi-discrete movements and in total there are 54 possible actions. This environment is made to be sparse-reward environment where agent gets positive reward at the completion of each floor.
+
+The Obstacle Tower Challenge is expected to promote research in the areas of Hierarchical Control, Intrinsic motivation, meta learning and World-Model learning.
