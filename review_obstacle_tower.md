@@ -1,4 +1,4 @@
-#### Review on: “Obstacle Tower: A generalization Challenge in Vision, Control, and Planning
+#### Review on: "Obstacle Tower: A generalization Challenge in Vision, Control, and Planning"
 
 This paper introduces a simulation environment called "Obstacle Tower" to provide a challenge in the direction of Deep Reinforcement Learning Research. The aim of this Unity3D game environment is to test a learned agent in terms of Visual scene, Control, Generalization, and Planning. Through the experimentation with state-of-the-art reinforcement learning algorithms, the authors have shown that not a single agent was able to perform close to human in this game environment.
 
