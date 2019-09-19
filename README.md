@@ -6,5 +6,5 @@ Shadek's blog
 
 [Reflection on Summer 2019](./reflecting_summer19.md)
 
-##Paper Review
+## Paper Review
 [Obstacle Tower Challenge](./review_obstacle_tower.md)
