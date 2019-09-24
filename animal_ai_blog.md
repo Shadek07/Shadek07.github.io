@@ -9,7 +9,7 @@ The Animal-AI Olympics with present AI with tasks that are unknown immediately p
 There are different categories of tasks that an agent is expected to solve in this Olympics. They are:
 
 **Food**: This category tests agent’s ability to retrieve food. Food item provides positive reward for the agent.
-![Food](/images/animal_ai_blog/1-Food.png=250x250)
+![Food](/images/animal_ai_blog/1-Food.png | width=150 | height=150)
 
 **Preferences**: This category tests if an agent prefers one action to another action because of maximized reward it will gain.
 ![Preferences](/images/animal_ai_blog/2-Preferences.png)
