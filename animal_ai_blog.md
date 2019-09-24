@@ -22,7 +22,6 @@ There are different categories of tasks that an agent is expected to solve in th
 
 **Spatial Reasoning**: In this type of environment, agent has to learn explore environment in restricted mood. It also tests agent’s memory of exploration, and understanding of gravity.
 <img src="/images/animal_ai_blog/5-SpatialReasoning.png" width="180" height="180">
-![Spatial Reasoning](/images/animal_ai_blog/5-SpatialReasoning.png)
 
 **Generalization**: In this type of environment, certain objects that had certain colors may not have those colors. Colors and shapes can change. So, it tests agent’s ability to generalize environment configuration.
 <img src="/images/animal_ai_blog/6-Generalization.png" width="180" height="180">
