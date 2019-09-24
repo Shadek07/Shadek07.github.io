@@ -9,11 +9,23 @@ The Animal-AI Olympics with present AI with tasks that are unknown immediately p
 There are different categories of tasks that an agent is expected to solve in this Olympics. They are:
 
 **Food**: This category tests agent’s ability to retrieve food. Food item provides positive reward for the agent.
+![Food](/images/animal_ai_blog/1-Food.png)
+
 **Preferences**: This category tests if an agent prefers one action to another action because of maximized reward it will gain.
+![Preferences](/images/animal_ai_blog/2-Preferences.png)
+
 **Obstacles**: The environment of this category will contain immovable objects which might impede agent’s navigation. This category tests agent’s exploration ability.
+![Obstacles](/images/animal_ai_blog/3-Obstacles.png)
+
 **Avoidance**: This category tests agent’s ability to avoid certain objects or areas that bring negative rewards or cause death to the agent. Agent may also have to push certain movable objects during exploration.
+![Avoidance](/images/animal_ai_blog/4-Avoidance.png)
+
 **Spatial Reasoning**: In this type of environment, agent has to learn explore environment in restricted mood. It also tests agent’s memory of exploration, and understanding of gravity.
+![Spatial Reasoning](/images/animal_ai_blog/5-SpatialReasoning.png)
+
 **Generalization**: In this type of environment, certain objects that had certain colors may not have those colors. Colors and shapes can change. So, it tests agent’s ability to generalize environment configuration.
+![Generalization](/images/animal_ai_blog/6-Generalization.png)
+
 Some other categories are Internal models, Object permanence, Advanced preferences, and Causal Reasoning. Description of all of these categories can be found at [here](https://www.mdcrosby.com/blog/animalaieval.html) and [here]( https://mdcrosby.com/blog/animalai2.html).
 
 
