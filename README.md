@@ -8,3 +8,4 @@ Shadek's blog
 
 ## Paper Review
 [Obstacle Tower Challenge](./review_obstacle_tower.md)
+[Blog article on Animal-AI Olympics](./animal_ai_blog.md)
