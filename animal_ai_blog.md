@@ -28,5 +28,9 @@ There are different categories of tasks that an agent is expected to solve in th
 
 Some other categories are Internal models, Object permanence, Advanced preferences, and Causal Reasoning. Description of all of these categories can be found at [here](https://www.mdcrosby.com/blog/animalaieval.html) and [here]( https://mdcrosby.com/blog/animalai2.html).
 
+Definition of objects inside of Olympic environment can be found here: [object definition](https://github.com/beyretb/AnimalAI-Olympics/blob/master/documentation/definitionsOfObjects.md)
+
+
+
 
 
