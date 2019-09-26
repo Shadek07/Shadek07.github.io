@@ -7,7 +7,7 @@ Shadek's blog
 [Reflection on Summer 2019](./reflecting_summer19.md)
 
 ## Reinforcement Learning
-[Chapter 2](./RL_Chapter2.ipynb), [generated images](./images/RL_chapter2)
+[Chapter 2](./RL_Chapter2.ipynb)[(generated images)](./images/RL_chapter2)
 
 ## Paper Review
 [Obstacle Tower Challenge](./review_obstacle_tower.md)
