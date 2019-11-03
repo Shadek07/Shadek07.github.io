@@ -60,3 +60,6 @@ mkl             -          2018.0.3           -             1
 
 ### Some image reconstruction from vae training:
 ![vae_pytorch](/images/worldmodel_pytorch/vae_torch.gif)
+
+## Training progess of worldmodel controller
+![training](/images/worldmodel_pytorch/worldmodel_pytorch_train.png)
