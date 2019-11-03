@@ -41,17 +41,17 @@ torch                  1.3.0
 tqdm                   4.36.1
 
 
-Conda Package            Version                   Build  Channel
+Conda Package        -    Version    -                Build -  Channel
 
 -------------------------------------------------------------------
 
-cudatoolkit               10.0.130                      0
+cudatoolkit        -       10.0.130           -             0
 
-cudnn                     7.3.1                cuda10.0_0
+cudnn           -          7.3.1        -        cuda10.0_0
 
-cupti                     10.0.130                      0    anaconda
+cupti          -           10.0.130       -                0   -  anaconda
 
-mkl                       2018.0.3                      1
+mkl             -          2018.0.3           -             1
 
 
 ### Github Repo:
