@@ -80,6 +80,10 @@ Add this line: os.environ["CUDA_VISIBLE_DEVICES"]="",  inside train.py to stop u
 
 python model.py norender log/carracing.cma.16.64.best.json
 
+if you get an error likeAttributeError: 'ImageData' object has no attribute 'data’, then do the following
+changed line_number 380 of this file residing in the directory similar to this: /home/hdilab/.conda/envs/worldmodel/lib/python3.5/site-packages/gym/envs/box2d/car_racing.py:
+
+arr = np.fromstring(image_data.get_data('RGBA',image_data.width*len('RGBA') ), dtype=np.uint8, sep='')  
 
 ### Some image reconstruction from vae training:
 ![vae_pytorch](/images/worldmodel_pytorch/vae_torch.gif)
