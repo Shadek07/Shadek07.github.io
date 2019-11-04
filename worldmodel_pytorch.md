@@ -55,6 +55,7 @@ mkl             -          2018.0.3           -             1
 
 
 ### Github Repo:
+[Repository link](https://github.com/Shadek07/worldmodel_pytorch)
 
 ### Instructions to run pytorch version:
 
