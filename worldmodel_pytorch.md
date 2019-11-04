@@ -58,6 +58,28 @@ mkl             -          2018.0.3           -             1
 
 ### Instructions to run pytorch version:
 
+If your PC doesn’t have 64 CPU cores, you have to edit extract.bash file. Default code assumes that you have >= 64 core CPUs. Run the command (bash extract.bash) four times. Each time choose only 16 CPU cores (1 to 16, then 17 to 32, then 33 to 48 then 49 to 64)).
+
+After that do the following 3 commands:
+1. python vae_train.py
+
+2. python series.py
+
+3. python rnn_train.py
+
+then following commands:
+
+cp ./tf_vae/vae.pt ./vae/
+
+cp ./tf_initial_z/initial_z.json ./initial_z/
+
+cp ./tf_rnn/rnn.pt ./rnn/
+
+Add this line: os.environ["CUDA_VISIBLE_DEVICES"]="",  inside train.py to stop using gpu for this job: bash gce_train.bash
+
+python model.py norender log/carracing.cma.16.64.best.json
+
+
 ### Some image reconstruction from vae training:
 ![vae_pytorch](/images/worldmodel_pytorch/vae_torch.gif)
 
