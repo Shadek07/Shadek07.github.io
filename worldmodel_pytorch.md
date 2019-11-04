@@ -94,4 +94,4 @@ changed line_number 380 of this file residing in the directory similar to this: 
 ![training](/images/worldmodel_pytorch/worldmodel_pytorch_train.png)
 
 ## Test trained controller with trained VAE and RNN:
-for 100 episodes, we got an avg reward of 815.83 with std of 100.66 (**815 ± 100**)
+After over 220 generations of controller training (CMA-ES) we tested trained model for 100 random trials, we got an avg reward of 815.83 with std of 100.66 (**815 ± 100**)
