@@ -30,12 +30,6 @@ pyglet                 1.4.5
 
 scipy                  1.1.0
 
-tensorboard            1.8.0
-
-tensorflow             1.8.0
-
-tensorflow-tensorboard 0.4.0
-
 torch                  1.3.0
 
 tqdm                   4.36.1
@@ -44,6 +38,9 @@ tqdm                   4.36.1
 Conda Package        -    Version    -                Build -  Channel
 
 -------------------------------------------------------------------
+mkl             -          2018.0.3           -             1
+
+**for cuda 10.0:**
 
 cudatoolkit        -       10.0.130           -             0
 
@@ -51,7 +48,13 @@ cudnn           -          7.3.1        -        cuda10.0_0
 
 cupti          -           10.0.130       -                0   -  anaconda
 
-mkl             -          2018.0.3           -             1
+**for cuda 9.0:**
+
+conda install cudatoolkit=9.0
+
+conda install cudnn=7.1.2
+
+conda install cupti=9.0
 
 
 ### Github Repo:
@@ -76,14 +79,14 @@ cp ./tf_initial_z/initial_z.json ./initial_z/
 
 cp ./tf_rnn/rnn.pt ./rnn/
 
-Add this line: os.environ["CUDA_VISIBLE_DEVICES"]="",  inside train.py to stop using gpu for this job: bash gce_train.bash
+Add this line: os.environ["CUDA_VISIBLE_DEVICES"]="",  inside **train.py** to stop using gpu for this job: bash gce_train.bash
 
-python model.py norender log/carracing.cma.16.64.best.json
+**python model.py norender log/carracing.cma.16.64.best.json**
 
 if you get an error likeAttributeError: 'ImageData' object has no attribute 'data’, then do the following
 changed line_number 380 of this file residing in the directory similar to this: /home/hdilab/.conda/envs/worldmodel/lib/python3.5/site-packages/gym/envs/box2d/car_racing.py:
 
-arr = np.fromstring(image_data.get_data('RGBA',image_data.width*len('RGBA') ), dtype=np.uint8, sep='')  
+**arr = np.fromstring(image_data.get_data('RGBA',image_data.width*len('RGBA') ), dtype=np.uint8, sep='')  **
 
 ### Some image reconstruction from vae training:
 ![vae_pytorch](/images/worldmodel_pytorch/vae_torch.gif)
