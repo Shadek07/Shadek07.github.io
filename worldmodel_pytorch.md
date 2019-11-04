@@ -79,9 +79,8 @@ cp ./tf_initial_z/initial_z.json ./initial_z/
 
 cp ./tf_rnn/rnn.pt ./rnn/
 
-Add this line: os.environ["CUDA_VISIBLE_DEVICES"]="",  inside **train.py** to stop using gpu for this job: bash gce_train.bash
+Add this line: os.environ["CUDA_VISIBLE_DEVICES"]="",  inside **train.py** to stop using gpu for this job: **bash gce_train.bash**
 
-**python model.py norender log/carracing.cma.16.64.best.json**
 
 if you get an error likeAttributeError: 'ImageData' object has no attribute 'data’, then do the following
 changed line_number 380 of this file residing in the directory similar to this: /home/hdilab/.conda/envs/worldmodel/lib/python3.5/site-packages/gym/envs/box2d/car_racing.py:
@@ -93,3 +92,6 @@ changed line_number 380 of this file residing in the directory similar to this: 
 
 ## Training progess of worldmodel controller
 ![training](/images/worldmodel_pytorch/worldmodel_pytorch_train.png)
+
+## Test trained controller with trained VAE and RNN:
+for 100 episodes, we got an avg reward of 815.83 with std of 100.66 (**815 ± 100**)
