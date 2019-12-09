@@ -8,3 +8,9 @@ After the training of VAE, I found that VAE is not going to be helpful for train
 ![VAE image](/images/analysis_obstacle/obstacle_vae.gif)
 
 Some of the competitors in this challenge had also applied world model and VAE but they could not achieve significant performance compared to other techiniques they applied. [Details of the competion winners and their approaches](https://blogs.unity3d.com/2019/08/07/announcing-the-obstacle-tower-challenge-winners-and-open-source-release/)
+
+## Replication results of Nichols's code
+
+
+Source:
+[Nichol's repo](https://github.com/unixpickle/obs-tower2)
