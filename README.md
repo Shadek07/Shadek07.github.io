@@ -4,6 +4,8 @@ Shadek's blog
 
 [How to create VisualPushBlock Unity Environment executable and interact with that in python](./create_visual_pushblock_unity_env.md)
 
+[Replication of Obstacle Tower Challenge](./analysis_obstacle_tower.md)
+
 [WorldModel in Pytorch](./worldmodel_pytorch.md)
 
 [Reflection on Summer 2019](./reflecting_summer19.md)
