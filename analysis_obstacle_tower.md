@@ -12,5 +12,6 @@ Some of the competitors in this challenge had also applied world model and VAE b
 ## Replication results of Nichols's code
 
 
-Source:
+## Sources
+
 [Nichol's repo](https://github.com/unixpickle/obs-tower2)
