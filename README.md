@@ -1,4 +1,4 @@
-Hi, This is Md Shadekur Rahman.graduated from UT-Arlington with MS-thesis. My research area includes Machine Learning, Natural Language Processing, Text Analytics and Deep Learning. 
+Hi, This is Md Shadekur Rahman, graduated from UT-Arlington with MS-thesis. My research area includes Machine Learning, Natural Language Processing, Text Analytics and Deep Learning. 
 
 My thesis title is: "Development of Text Analytics for Debriefing Reflection Essays". My thesis presentation and thesis paper can be found [here](https://github.com/Shadek07/ms-thesis)
 
