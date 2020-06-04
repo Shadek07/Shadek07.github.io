@@ -18,6 +18,8 @@ The following lists github repositories from my research studies.
 
 * [Web app for fake twitter profile and posts identification](https://github.com/Shadek07/talkingcricket)
 
+* [Implementation of Neural Model of Fake news detection](https://github.com/Shadek07/csi)
+
 
 ## Technical blog articles
 
