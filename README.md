@@ -2,7 +2,7 @@ Hi, This is Md Shadekur Rahman, graduated from UT-Arlington with MS-thesis. My r
 
 My thesis title is: "Development of Text Analytics for Debriefing Reflection Essays". My thesis presentation and thesis paper can be found [here](https://github.com/Shadek07/ms-thesis)
 
-## Blog articles
+## Technical blog articles
 
 [Technical note on how to apply worldmodel for visual pushblock game](./pushblock_worldmodel.md)
 
@@ -13,6 +13,39 @@ My thesis title is: "Development of Text Analytics for Debriefing Reflection Ess
 [WorldModel in Pytorch](./worldmodel_pytorch.md)
 
 [Reflection on Summer 2019](./reflecting_summer19.md)
+
+## Competitive programming experience
+
+I love problem solving in competitive programming events. Since 2009, I am solving data structure and algorithmic problems in various competitive programming site and events. The following list contains github code repository of my problem solving.
+
+* [UVa online judge](https://github.com/Shadek07/uva)
+
+    * solved 894 problems [UVa judge profile](https://uhunt.onlinejudge.org/id/43821)
+    
+* [Topcoder](https://github.com/Shadek07/Topcoder)
+
+    * participated 150 Single Round Matches (SRM)
+    
+    * became Div 1 coder [Topcoder profile](https://www.topcoder.com/members/survival07/details/?track=DATA_SCIENCE&subTrack=SRM)
+    
+* [Facebook Hacker cup](https://github.com/Shadek07/facebook-hacker-cup)
+
+    * participated in annual hacker cup competitions from 2013 to 2017
+    
+    * passed Qualification Rounds in all those years
+    
+* [Codeforces](https://github.com/Shadek07/codeforces)
+
+    * participated in 84 Codeforces rounds (each having 2 hours duration)
+    
+    * max rating 1675 [Codeforces profile](http://codeforces.com/profile/Shadek)
+    
+* [Codechef](https://github.com/Shadek07/codechef)
+
+    * participated 29 codechef monthly challenges
+    
+    * overall solved 121 algorithmic problems [Codechef profile](https://www.codechef.com/users/shadek)
+    
 
 ## Reinforcement Learning exercise
 [Chapter 2](./RL_Chapter2.ipynb)[(generated images)](./images/RL_chapter2)
