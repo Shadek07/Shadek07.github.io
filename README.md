@@ -2,6 +2,23 @@ Hi, This is Md Shadekur Rahman, graduated from UT-Arlington with MS-thesis. My r
 
 My thesis title is: "Development of Text Analytics for Debriefing Reflection Essays". My thesis presentation and thesis paper can be found [here](https://github.com/Shadek07/ms-thesis)
 
+## Research projects
+
+The following lists github repositories from my research studies.
+
+* [MS-thesis project](https://github.com/Shadek07/EssayIQ)
+
+* [World-model in pytorch](https://github.com/Shadek07/worldmodel_pytorch)
+
+* [World-model experiment demo with Unity3D Visual PushBlock](https://github.com/Shadek07/interactive-visualpushblock)
+
+* [World-model implementation for visual PushBlock](https://github.com/Shadek07/WorldModel_VisualPushBlock)
+
+* [Statistical and machine learning clustering of factual tweets](https://github.com/Shadek07/tweetframes)
+
+* [Web app for fake twitter profile and posts identification](https://github.com/Shadek07/talkingcricket)
+
+
 ## Technical blog articles
 
 [Technical note on how to apply worldmodel for visual pushblock game](./pushblock_worldmodel.md)
