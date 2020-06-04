@@ -16,17 +16,17 @@ My thesis title is: "Development of Text Analytics for Debriefing Reflection Ess
 
 ## Competitive programming experience
 
-I love problem solving in competitive programming events. Since 2009, I am solving data structure and algorithmic problems in various competitive programming site and events. The following list contains github code repository of my problem solving.
+I love problem solving in competitive programming events. Since 2009, I am solving data structure and algorithmic problems in various competitive programming site and events. The following list contains github code repositories of my problem solving.
 
 * [UVa online judge](https://github.com/Shadek07/uva)
 
-    * solved 894 problems [UVa judge profile](https://uhunt.onlinejudge.org/id/43821)
+    * solved 894 problems ([UVa judge profile](https://uhunt.onlinejudge.org/id/43821))
     
 * [Topcoder](https://github.com/Shadek07/Topcoder)
 
     * participated 150 Single Round Matches (SRM)
     
-    * became Div 1 coder [Topcoder profile](https://www.topcoder.com/members/survival07/details/?track=DATA_SCIENCE&subTrack=SRM)
+    * became Div 1 coder ([Topcoder profile](https://www.topcoder.com/members/survival07/details/?track=DATA_SCIENCE&subTrack=SRM))
     
 * [Facebook Hacker cup](https://github.com/Shadek07/facebook-hacker-cup)
 
@@ -38,13 +38,13 @@ I love problem solving in competitive programming events. Since 2009, I am solvi
 
     * participated in 84 Codeforces rounds (each having 2 hours duration)
     
-    * max rating 1675 [Codeforces profile](http://codeforces.com/profile/Shadek)
+    * max rating 1675 ([Codeforces profile](http://codeforces.com/profile/Shadek))
     
 * [Codechef](https://github.com/Shadek07/codechef)
 
     * participated 29 codechef monthly challenges
     
-    * overall solved 121 algorithmic problems [Codechef profile](https://www.codechef.com/users/shadek)
+    * overall solved 121 algorithmic problems ([Codechef profile](https://www.codechef.com/users/shadek))
     
 
 ## Reinforcement Learning exercise
