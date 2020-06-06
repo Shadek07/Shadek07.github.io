@@ -23,15 +23,15 @@ The following lists github repositories from my research studies.
 
 ## Technical blog articles
 
-[Technical note on how to apply worldmodel for visual pushblock game](./pushblock_worldmodel.md)
+* [Technical note on how to apply worldmodel for visual pushblock game](./pushblock_worldmodel.md)
 
-[How to create VisualPushBlock Unity Environment executable and interact with that in python](./create_visual_pushblock_unity_env.md)
+* [How to create VisualPushBlock Unity Environment executable and interact with that in python](./create_visual_pushblock_unity_env.md)
 
-[Replication of Obstacle Tower Challenge](./analysis_obstacle_tower.md)
+* [Replication of Obstacle Tower Challenge](./analysis_obstacle_tower.md)
 
-[WorldModel in Pytorch](./worldmodel_pytorch.md)
+* [WorldModel in Pytorch](./worldmodel_pytorch.md)
 
-[Reflection on Summer 2019](./reflecting_summer19.md)
+* [Reflection on Summer 2019](./reflecting_summer19.md)
 
 ## Competitive programming experience
 
