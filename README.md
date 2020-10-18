@@ -49,9 +49,11 @@ I love problem solving in competitive programming events. Since 2009, I am solvi
     
 * [Facebook Hacker cup](https://github.com/Shadek07/facebook-hacker-cup)
 
-    * participated in annual hacker cup competitions from 2013 to 2017
+    * participated in annual hacker cup competitions from 2013 to 2017, and 2020
     
     * passed Qualification Rounds in all those years
+    * 2020 Qualifacation Round position below
+    
     
 * [Codeforces](https://github.com/Shadek07/codeforces)
 
