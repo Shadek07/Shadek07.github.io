@@ -53,6 +53,7 @@ I love problem solving in competitive programming events. Since 2009, I am solvi
     
     * passed Qualification Rounds in all those years
     * 2020 Qualifacation Round position below
+    * <img src="/images/facebook_hackercup/qualification_2020.png" width="350" height="250">
     
     
 * [Codeforces](https://github.com/Shadek07/codeforces)
