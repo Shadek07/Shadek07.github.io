@@ -2,6 +2,10 @@ Hi, This is Md Shadekur Rahman, graduated from UT-Arlington with MS-thesis. My r
 
 My thesis title is: "Development of Text Analytics for Debriefing Reflection Essays". My thesis presentation and thesis paper can be found [here](https://github.com/Shadek07/ms-thesis)
 
+## Professional projects
+
+* [Gig data analysis](https://github.com/Shadek07/gig_data_analysis)
+
 ## Research projects
 
 The following lists github repositories from my research studies.
