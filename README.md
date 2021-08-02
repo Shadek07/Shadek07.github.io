@@ -2,6 +2,10 @@ Hi, This is Md Shadekur Rahman, a software engineer by profession. I graduated f
 
 My thesis title is: "Development of Text Analytics for Debriefing Reflection Essays". My thesis presentation and thesis paper can be found [here](https://github.com/Shadek07/ms-thesis)
 
+## Github profile
+
+* [Shadek07](https://github.com/Shadek07)
+
 ## Blog writing profiles
 
 * [Medium.com](https://shadek07.medium.com/)
