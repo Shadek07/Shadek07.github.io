@@ -14,6 +14,7 @@ My thesis title is: "Development of Text Analytics for Debriefing Reflection Ess
 </div>
 
 <br>
+<br>
 
 ## Github repository profile
 
