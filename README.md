@@ -13,6 +13,8 @@ My thesis title is: "Development of Text Analytics for Debriefing Reflection Ess
    <br>
 </div>
 
+<br>
+
 ## Github repository profile
 
 * [Shadek07](https://github.com/Shadek07)
