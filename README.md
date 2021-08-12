@@ -1,12 +1,16 @@
 <br>
-<img src="/images/profile_images/image_cherry_garden.png" width="280" height="280">
-<br>
+<div style="float:left">
+   <img src="/images/profile_images/image_cherry_garden.png" width="250" height="280">
+</div>
+<div style="float:right">
 
-Hi, This is Md Shadekur Rahman, a software engineer by profession. I graduated from UT-Arlington with MS-thesis. My research area includes Machine Learning, Natural Language Processing, Text Analytics and Deep Learning. 
+Hi, This is ***Md Shadekur Rahman***, a software engineer by profession. I graduated from UT-Arlington with MS-thesis. My research area includes Machine Learning, Natural Language Processing, Text Analytics and Deep Learning. 
 
 My thesis title is: "Development of Text Analytics for Debriefing Reflection Essays". My thesis presentation and thesis paper can be found [here](https://github.com/Shadek07/ms-thesis)
+</div>
+<div style="clear:both"/>
 
-## Github profile
+## Github repository profile
 
 * [Shadek07](https://github.com/Shadek07)
 
