@@ -25,6 +25,7 @@ My thesis title is: "Development of Text Analytics for Debriefing Reflection Ess
 
 * [Medium.com](https://shadek07.medium.com/)
 * [Wordpress.com](https://shadekcse.wordpress.com/)
+* [youtube channel](https://www.youtube.com/channel/UCRO9RkabAPjRlbCIkWxBBpA)
 
 ## Professional projects
 
