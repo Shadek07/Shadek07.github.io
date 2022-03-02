@@ -24,13 +24,6 @@ My thesis title is: "Development of Text Analytics for Debriefing Reflection Ess
 ## Blog writing profiles
 
 * [Medium.com](https://shadek07.medium.com/)
-
-      * [How Does DynamoDB Stream Filtering Minimize Calls to Lambda](https://aws.plainenglish.io/how-does-dynamodb-stream-filtering-minimize-calls-to-lambda-abf3aec88ad) 
-     
-      * [Minimizing Lambda Function Execution Time](https://aws.plainenglish.io/minimizing-lambda-function-execution-time-7d068704fe6b)  
-      
-      * [Amazon Transcribe: Custom Language Model or General model?](https://aws.plainenglish.io/amazon-transcribe-custom-language-model-or-general-model-7b08f23baae)  
-      
 * [Wordpress.com](https://shadekcse.wordpress.com/)
 * [youtube channel](https://www.youtube.com/channel/UCRO9RkabAPjRlbCIkWxBBpA)
 
