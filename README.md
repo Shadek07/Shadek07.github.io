@@ -27,6 +27,10 @@
 * [Wordpress.com](https://shadekcse.wordpress.com/)
 * [youtube channel](https://www.youtube.com/channel/UCRO9RkabAPjRlbCIkWxBBpA)
 
+## Certifications
+
+* [AWS Certifications](./aws_cert.md)
+  
 ## Professional projects
 
 * [Gig data analysis](https://github.com/Shadek07/gig_data_analysis)
