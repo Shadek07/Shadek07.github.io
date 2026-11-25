@@ -6,7 +6,7 @@
    <br>
    
    </p>
-  Hi, This is ***Shadekur Rahman***, a software engineer by profession. I have been working as a Software engineer (Infrastructure) for the last two and half years building privacy compliant and reliable ML training data infrastructure for wearables and Ads ranking models. Before that I worked as a founding Cloud Software Engineer at an early-stage startup company (named Banter Media Inc.) based in New York. Other than building software solution using Cloud services, I specialize in building features around ML, Data science and Data warehousing.
+  Hi, This is ***Shadekur Rahman***, a software engineer by profession. I have been working as a Software engineer (Infrastructure) at **Meta** for the last two and half years building privacy compliant and reliable ML training data infrastructure for wearables and Ads ranking models. Before that I worked as a founding Cloud Software Engineer at an early-stage startup company (named **Banter Media** Inc.) based in New York. Other than building software solution using Cloud services, I specialize in building features around ML, Data science and Data warehousing.
   
   Earlier I graduated from University of Texas at Arlington with MS-thesis in 2020. My research area includes Machine Learning, Natural Language Processing, Text Analytics and Deep Learning. My thesis title is: "Development of Text Analytics for Debriefing Reflection Essays". My thesis presentation and thesis paper can be found [here](https://github.com/Shadek07/ms-thesis)
   <br>
